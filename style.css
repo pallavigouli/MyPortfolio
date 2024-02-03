@@ -1,0 +1,65 @@
+body{
+    background-image: linear-gradient(rgb(251, 164, 251),rgb(201, 194, 208),pink);
+    margin: 0;padding: 0;
+    font-weight: bold;
+    font-size: 20px;
+} 
+form{
+    margin: -20px;
+    padding: -40px -20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+input{
+    color: chocolate;
+    font-weight: bold;   
+}
+label{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blueviolet;
+    font-weight: bold;
+}
+th,td{
+    padding: 25px;
+}
+table{
+    border: 2px solid;
+    border-radius: 10px;
+    margin-top: -10px;
+}
+th{
+    background-color:palevioletred;
+}
+h1{
+    color:white;
+    font-weight: bold;
+    height: 60px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: 0;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 2px 2px gold;           
+}
+button{
+    color: black;
+    font-weight: bold;
+    font-size: 20px; background-color: chartreuse;
+}
+button:hover{
+    background-color: green;
+}
+li{
+    color: darkgreen;
+    font-weight: bold;
+}
+h2{
+    color:rgb(246, 7, 7);
+    font-weight: bold;
+    margin: 5px 5px;
+}
+img{
+    border-radius: 30%;
+}
